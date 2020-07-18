@@ -10,6 +10,7 @@ import isInsecureRoomName from '../../base/util/isInsecureRoomName';
 import { isCalendarEnabled } from '../../calendar-sync';
 import { isRecentListEnabled } from '../../recent-list/functions';
 
+
 /**
  * {@code AbstractWelcomePage}'s React {@code Component} prop types.
  */
